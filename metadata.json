@@ -1,0 +1,6 @@
+{
+  "name": "ፂዮን Translator",
+  "description": "Bidirectional offline translation between Amharic, English, and Afan Oromo with smart search, embedded dictionary, and installable PWA support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
